@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MianSamroze
-- 👀 I’m interested in AI,Machine Learning, Deep Learning, Data Science, Entrepreneurship and Business.
+- 👀 I’m interested in AI, Machine Learning, Deep Learning, Data Science, Entrepreneurship and Business.
 - 🌱 I’m currently learning ML.
 - 💞️ I’m looking for Money or Investment or funding for my startup.
 - 📫 You can contact me on samrozehashim@gmail.com
